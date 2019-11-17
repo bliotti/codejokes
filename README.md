@@ -1,2 +1,0 @@
-# codejokes
-Created with CodeSandbox
